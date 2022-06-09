@@ -1,0 +1,11 @@
+.y{
+    display: flex;
+    justify-content: space-between;
+  
+}
+.s{
+margin-bottom: 50px;
+text-align: center;
+width:50vw;
+margin-top: 50px;
+}
